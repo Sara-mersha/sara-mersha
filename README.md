@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm sara, and I'm junior web and mobile app developer💻</>. 🔭 I’m currently working on web based applications using <h1>js and it's framework node.js</h1>. 
-<img src="(https://github.com/user-attachments/assets/319c2046-abb8-4ad7-b658-158f581c138c" height="105px" width="105px" position="absolute"/>
+<h1 color="purple">I'm sara, and I'm junior web and mobile app developer💻</>. 🔭 I’m currently working on web based applications using js and it's framework node.js</h1> 
+
 <!--
 **Sara-mersha/sara-mersha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
