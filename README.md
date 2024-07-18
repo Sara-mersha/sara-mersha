@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm sara, and I'm junior web and mobile app developer💻</>. 🔭 I’m currently working on web based applications using <h1>js and it's framework node.js</h1>. 
+<img src="https://iconscout.com/free-3d-illustration/nodejs-9294859"/>
 <!--
 **Sara-mersha/sara-mersha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
